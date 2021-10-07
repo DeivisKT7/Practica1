@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.TituloCaja{
+	background: green;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	padding: 10px;
+	margin: 20px;
+	box-shadow: 10px 15px 10px 0px gray;
+}
+
+.TituloCaja2{
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	padding: 0px;
+	margin: 20px;
+	display: inline-block;
+}
+
+.TituloCaja3{
+	font-size: 25px;
+}
+
+.Titulo{
+	text-align: center;
+	position: absolute;
+	margin: auto;
+}
+
+.bloque{
+	border: 2px solid black;
+	height: 30px;
+	width: 60px;
+	display: inline-block;
+	background: orange;
+	text-align: center;
+	padding: 25px;
+	font-size: 20px;
+	color: white;
+
+
+}
+
+.linea{
+	border: 1px solid gray;
+	display: block;
+	background: red;
+	color: white;
+	padding: 7px;
+}
+
+p{
+	color: red;
+	margin: 15px 0px 10px 0px;
+}
